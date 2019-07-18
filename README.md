@@ -48,7 +48,7 @@ FAQ
 
 ### How should I deal with the initial version?
 
-Good point, Fibonacci sequence starts from 0, 1, 1, 2, 3, 5, ... so if you really want to communicate relevant changes, you should probably skip the first to numbers and start from the second 1.
+Good point, Fibonacci sequence starts from 0, 1, 1, 2, 3, 5, ... so if you really want to communicate relevant changes, you should probably skip the first two numbers and start from the second 1.
 
 ### How to deal with big versions like 317811.121393.10946?
 
