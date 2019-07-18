@@ -1,7 +1,3 @@
----
-title: Semantic Versioning 2.0.0
----
-
 Fibonacci Versioning 1.13.89
 ==============================
 
