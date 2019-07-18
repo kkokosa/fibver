@@ -60,7 +60,7 @@ Just rewrite your software, it is probably too old and legacy already. This is i
 About
 -----
 
-The Fibonacci Versioning specification is authored by [Konrad Kokosa](https://github.com/kkokosa), inspired by a [Twitter rant about versioning](https://twitter.com/_cartermp/status/1151544194856415232?s=20) by [Philip Carter](https://twitter.com/_cartermp), [Immo Landwerth](https://twitter.com/terrajobst) and [Jason Malinowski](https://twitter.com/jasonmalinowski). It should be solely treated as a joke, heavily based on a popular [Semantic Versioning](https://semver.org/) authored by [Tom
+The Fibonacci Versioning specification is authored by [Konrad Kokosa](https://github.com/kkokosa), Author of [Pro .NET Memory Management](prodotnetmemory.com) book, Microsoft MVP in .NET, architect, performance & Mechanical Sympathy fan, one of [Dotnetos](https://conf.dotnetos.org/). The idea is inspired by a [Twitter rant about versioning](https://twitter.com/_cartermp/status/1151544194856415232?s=20) by [Philip Carter](https://twitter.com/_cartermp), [Immo Landwerth](https://twitter.com/terrajobst) and [Jason Malinowski](https://twitter.com/jasonmalinowski). It should be solely treated as a joke, heavily based on a popular [Semantic Versioning](https://semver.org/) authored by [Tom
 Preston-Werner](http://tom.preston-werner.com).
 
 
