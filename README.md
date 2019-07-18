@@ -46,7 +46,7 @@ Fibonacci number comes from so-called Fibonacci sequence, such that each number 
 FAQ
 ---
 
-## How should I deal with the initial version?
+### How should I deal with the initial version?
 
 Good point, Fibonacci sequence starts from 0, 1, 1, 2, 3, 5, ... so if you really want to communicate relevant changes, you should probably skip the first to numbers and start from the second 1.
 
