@@ -4,7 +4,7 @@ Fibonacci Versioning 1.13.89
 Summary
 -------
 
-Given a version number MAJOR.MINOR.PATCH, increment to **to the next Fibonacci number** the:
+Given a version number MAJOR.MINOR.PATCH, increment to **the next Fibonacci number** the:
 
 1. MAJOR version when you make incompatible API changes,
 1. MINOR version when you add functionality in a backwards compatible
