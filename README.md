@@ -1,3 +1,7 @@
+---
+title: Semantic Versioning 2.0.0
+---
+
 Fibonacci Versioning 1.13.89
 ==============================
 
@@ -41,14 +45,18 @@ incerasing to the next Fibonacci number!
 Why Use Semantic Versioning?
 ----------------------------
 
-Fibonacci number comes from so-called Fibonacci sequence, such that each number is the sum of the two preceding ones. Thus, Fibonacci Versioning provides great marketing powers, as you can always say about the current version that "it's better than our two previous versions put together" (&copy;Jason Malinowski). And nowadays, big number sells. So "Product 34.0" versus "Product 55.0" sounds much more expensive and feature-full than boring upgrade from "Product 8.0" to "Product 9.0". Moreover, sucessive Fibonacci numbers differs greatly. It is much harder to consufe versions 1.987.2584 and 1.2584.987 instead of 1.15.17 and 1.17.15. 
+Fibonacci number comes from so-called Fibonacci sequence, such that each number is the sum of the two preceding ones. Thus, Fibonacci Versioning provides great marketing powers, as you can always say about the current version that "it's better than our two previous versions put together" (&copy;Jason Malinowski). And nowadays, big number sells. So "Product 55.0.0" versus "Product 34.0.0" sounds much more expensive and feature-full than boring upgrade from "Product 8.0" to "Product 9.0". Moreover, sucessive Fibonacci numbers differs greatly. It is much harder to consufe versions 1.987.2584 and 1.2584.987 instead of 1.15.17 and 1.17.15. 
 
 FAQ
 ---
 
+## How should I deal with the initial version?
+
+Good point, Fibonacci sequence starts from 0, 1, 1, 2, 3, 5, ... so if you really want to communicate relevant changes, you should probably skip the first to numbers and start from the second 1.
+
 ### How to deal with big versions like 317811.121393.10946?
 
-Just rewrite your software, it is probably too old and legacy already.
+Just rewrite your software, it is probably too old and legacy already. This is in fact one of the advantages of FibVer - pushing you to rewrite software.
 
 
 
