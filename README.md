@@ -38,7 +38,7 @@ However it is done, it SHOULD be precise and comprehensive.
 [Semantic Versioning](https://semver.org/) rules onwards. Just to remember about
 incerasing to the next Fibonacci number!
 
-Why Use Semantic Versioning?
+Why Use Fibonacci Versioning?
 ----------------------------
 
 Fibonacci number comes from so-called Fibonacci sequence, such that each number is the sum of the two preceding ones. Thus, Fibonacci Versioning provides great marketing powers, as you can always say about the current version that "it's better than our two previous versions put together" (&copy;Jason Malinowski). And nowadays, big number sells. So "Product 55.0.0" versus "Product 34.0.0" sounds much more expensive and feature-full than boring upgrade from "Product 8.0" to "Product 9.0". Moreover, sucessive Fibonacci numbers differs greatly. It is much harder to confuse versions 1.987.2584 and 1.2584.987 instead of 1.15.17 and 1.17.15. 
