@@ -1,4 +1,4 @@
-Fibonacci Versioning 1.13.89
+Fibonacci Versioning 1.13.144
 ==============================
 
 Summary
@@ -36,7 +36,7 @@ However it is done, it SHOULD be precise and comprehensive.
 
 1. As Fibonacci Versioning is not yet production ready, you can reuse all 
 [Semantic Versioning](https://semver.org/) rules onwards. Just to remember about
-incerasing to the next Fibonacci number!
+increasing to the next Fibonacci number!
 
 Why Use Fibonacci Versioning?
 ----------------------------
